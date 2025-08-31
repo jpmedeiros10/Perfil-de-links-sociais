@@ -7,18 +7,17 @@
 <p align="center">Este projeto foi desenvolvido com HTML e CSS, com o objetivo de criar uma tela com links de perfil sociais para divulgção mas mesmas e aperfeiçoar as habilidades de display e deslocamento</p>
 
 <br>
-<img margin=200px src="https://github.com/jpmedeiros10/Tela-de-login/blob/main/imagem/mockup%20joao%20pedro%20(1).png?raw=true" alt="img-principal"> 
+<img margin=200px src="https://github.com/jpmedeiros10/Perfil-de-links-sociais/blob/main/imagem/mockup%20joao%20pedro%20(1).png?raw=true" alt="img-principal"> 
 <br>
 <br>
 
 <h2 font-wize=400>🎯 Funcionalidades</h2>
 
 <lu>
-  <li>Formulário estilizado com campos de login e senha</li>
-  <li>Design inspirado no Homem-Aranha</li>
-  <li>Seção de destaque para um background com imagem</li>
-  <li>Layout responsivo para desktop e mobile</li>
-  <li>Interface ajustada automaticamente conforme auteraçao do tamanho da tela</li>
+  <li>Exibição de perfil com foto, nome e localização;</li>
+  <li>Botões com links para redes sociais: LinkedIn, GitHub, Instagram e Twitter;</li>
+  <li>Layout responsivo (funciona em desktop e mobile);</li>
+  <li>Interface ajustada automaticamente conforme auteraçao do tamanho da tela;</li>
 </lu>
 <br>
 <h2 font-wize=400>🛠️ Tecnologias Utilizadas</h2>
@@ -47,8 +46,9 @@
 
 <h2 font-wize=400>📌 Melhorias Futuras</h2>
 <lu>
-  <li>Adicionar interatividade com JavaScript</li>
-  <li>Criar páginas para implementação</li>
+  <li>Adicionar animações nos botões ao passar o mouse;</li>
+  <li>Adicionar ícones das redes sociais (ex: Font Awesome);</li>
+  <li>Criar versão em React para maior escalabilidade;</li>
 </lu>
 
 <br>
