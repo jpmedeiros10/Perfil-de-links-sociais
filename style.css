@@ -1,0 +1,74 @@
+* {
+    font-family: "Roboto Slab", serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: black;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 70%;
+    display: block;
+    margin: 0 auto; /*centralizar a imagem, 0 em cima e embaixo, auto nas laterais*/
+
+}
+
+main {
+    background: #3a3939;
+    border: 2px solid rgba(255, 255, 255, 0.6); /* Adicionando uma borda ao redor */
+    border-radius: 10px; /* Arredondando os cantos */
+    color: #fff;
+    padding: 40px 40px; /* Adicionando espaçamento interno (20 em cima e embaixo)/(30 de ambos os lados)*/
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; /*sombra ao redor (varios modelos na internet)*/
+    border: none;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 25px;
+}
+
+.localizacao {
+    text-align: center;
+    font-size: 18px;
+    color: #d7ec1a;
+    font-weight: 600;
+}
+
+.cargo {
+    text-align: center;
+    font-size: 18px;
+    margin: 25px 0 20px 0;
+}
+
+.link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+    gap: 15px; /*espaçamento entre os botões*/
+
+}
+
+.link a {
+    text-decoration: none; /*remover o sublinhado*/
+    color: #fff;
+    background: #636060e0;
+    padding: 15px 40px;
+    border-radius: 15px;
+    width: 350px;
+    text-align: center;
+    font-size: 18px;
+    transition: background 0.3s, transform 0.3s; /*transição suave para as mudanças de background e transformação*/
+}
+
